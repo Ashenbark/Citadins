@@ -38,3 +38,8 @@
 *.ilk
 *.pdb
 *.obj
+
+# Libs
+/include
+/lib
+/build
